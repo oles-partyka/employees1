@@ -1,5 +1,6 @@
 {
   "name": "employees",
+  "homepage": "https://oles-partyka.github.io/employees1",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
